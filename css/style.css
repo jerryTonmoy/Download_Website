@@ -55,6 +55,7 @@ ol li {
     /* display:block; */
     list-style-type: number;
     text-decoration: none;
+    font-size: 15px;
 }
 ol li a {
     color: white;
