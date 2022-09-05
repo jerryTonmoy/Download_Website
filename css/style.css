@@ -1,16 +1,23 @@
 #menu{
-    background-color: black;
-    height: 50px;
-    padding: 60px;
+   background: #1e5799;
+background: -moz-linear-gradient(top, #1e5799 0%, #207cca 44%, #207cca 44%, #2989d8 50%, #7db9e8 100%);
+background: -webkit-linear-gradient(top, #1e5799 0%,#207cca 44%,#207cca 44%,#2989d8 50%,#7db9e8 100%);
+background: linear-gradient(to bottom, #1e5799 0%,#207cca 44%,#207cca 44%,#2989d8 50%,#7db9e8 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 );
+    height: 30px;
+    padding: 20px;
 }
 
 
 .hints{
-    color:blueviolet;
+    color:blanchedalmond;
     text-align: center;
-    font-size: 10px;
+    font-size: 20px;
     text-transform: capitalize;
     font-style: italic;
+    margin-top: 5px;
+    font-weight: 900;
+    text-shadow: #7db9e8;
 }
 
 
